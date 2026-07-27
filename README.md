@@ -1,30 +1,19 @@
-markdown# Hi there, I'm Divas! 👋
+# Simple C Calculator
 
-### 🚀 About Me
-I am an aspiring Software Engineer focused on building efficient solutions and mastering low-level programming. I love tackling complex logical problems and exploring how software interacts with computer architecture.
+A clean and interactive command-line calculator built using the C programming language.
 
-- 🔭 I’m currently working on mastering **C Programming** and data structures.
-- 🌱 I’m currently learning system-level programming and algorithm optimization.
-- ⚡ Fun fact: I wrote my very first repository, `My-First-C-Program`, right here on this account!
+## 🛠️ Features
+- Supports basic arithmetic operations: Addition (`+`), Subtraction (`-`), Multiplication (`*`), and Division (`/`).
+- Includes error handling to prevent division by zero.
+- Displays results precisely up to two decimal places.
 
----
+## 🚀 How to Run
+To compile and run this calculator on your local machine, open your terminal and run:
 
-### 🛠️ Tech Stack & Tools
+```bash
+# Compile the code
+gcc calculator.c -o calculator
 
-* **Languages**: `C` | `C++` (Learning)
-* **Tools & Platforms**: `Git` | `GitHub` | `VS Code` | `Linux`
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://vercel.app" alt="Divas's GitHub Stats" height="150" />
-  <img src="https://herokuapp.com" alt="Divas's Streak Stats" height="150" />
-</p>
-
----
-
-### 🌐 Connect with Me
-
-* **Email**: [divasrivastava9@gmail.com](
+# Run the executable
+./calculator
+```
